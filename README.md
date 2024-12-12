@@ -7,9 +7,8 @@
 Здесь укажите имя вашего бакета: 's3-student-mle-20241021-ea9d7e02d5'
 
 #*********************************************************************
-Этап 1: Разворачивание MLflow и регистрация модели
+# Этап 1: Разворачивание MLflow и регистрация модели
 
-процесс развертывания MLFLOW - в терминале
 cd ~/mle_projects/mle-project-sprint-2
 # обновление локального индекса пакетов
 sudo apt-get update
@@ -17,11 +16,9 @@ sudo apt-get update
 sudo apt-get install python3.10-venv
 # создание виртуального пространства
 python3.10 -m venv .venv_sprint2
-
 source .venv_sprint2/bin/activate
 # файл с нужными библиотеками уже подготовлен заранее  
 pip install -r requirements.txt
-
 # для работы jupiter notebook делаю kernel
 python -m ipykernel install --user --name=.venv_sprint2
 
@@ -36,9 +33,10 @@ http://127.0.0.1:5000
 pkill gunicorn
 
 # Регистрация модели
+cd ~/mle_projects/mle-project-sprint-2/mlflow_server/
+python3 base_model.py
 
-
-#*********************************************************************
+# *********************************************************************
 Этап 2: Проведение EDA
 результаты EDA доступны по ссылке mle_projects/mle-project-sprint-2/model_improvement/project_template_sprint_2.ipynb
 

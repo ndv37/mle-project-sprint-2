@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2/mlflow_server/mlruns/0/87480a456a39400585c3d15be2b35d83/artifacts
+end_time: 1734024140159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87480a456a39400585c3d15be2b35d83
+run_name: incongruous-wasp-238
+run_uuid: 87480a456a39400585c3d15be2b35d83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734024136915
+status: 4
+tags: []
+user_id: mle-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2/mlflow_server/mlruns/0/f7fc02e582c540cb9859c8521e15588e/artifacts
+end_time: 1734023342227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7fc02e582c540cb9859c8521e15588e
+run_name: worried-mole-805
+run_uuid: f7fc02e582c540cb9859c8521e15588e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734023338063
+status: 4
+tags: []
+user_id: mle-user

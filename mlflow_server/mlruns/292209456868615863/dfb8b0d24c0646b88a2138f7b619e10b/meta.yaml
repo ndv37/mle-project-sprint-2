@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2/mlflow_server/mlruns/292209456868615863/dfb8b0d24c0646b88a2138f7b619e10b/artifacts
+end_time: 1734023424854
+entry_point_name: ''
+experiment_id: '292209456868615863'
+lifecycle_stage: active
+run_id: dfb8b0d24c0646b88a2138f7b619e10b
+run_name: omniscient-cat-102
+run_uuid: dfb8b0d24c0646b88a2138f7b619e10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734023420933
+status: 4
+tags: []
+user_id: mle-user

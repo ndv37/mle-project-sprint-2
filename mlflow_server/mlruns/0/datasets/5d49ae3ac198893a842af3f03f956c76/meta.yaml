@@ -1,0 +1,8 @@
+digest: f5d8bf3e
+name: dataset
+profile: '{"num_rows": 120, "num_elements": 240}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length (cm)"}, {"type":
+  "double", "name": "sepal width (cm)"}]}'
+source: '{"tags": {"mlflow.user": "mle-user", "mlflow.source.name": "/home/mle-user/mle_projects/mle-project-sprint-2/.venv_project_sprint2/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "f3c2fd4cae2b2beba603696b88ef489018e9814c"}}'
+source_type: code

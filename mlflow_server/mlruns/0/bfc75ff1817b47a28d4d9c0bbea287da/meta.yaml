@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2/mlflow_server/mlruns/0/bfc75ff1817b47a28d4d9c0bbea287da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfc75ff1817b47a28d4d9c0bbea287da
+run_name: burly-bear-640
+run_uuid: bfc75ff1817b47a28d4d9c0bbea287da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734023196343
+status: 1
+tags: []
+user_id: mle-user

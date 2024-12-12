@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2/mlflow_server/mlruns/0/29abce92bfca48468fdc6bd347de7aa0/artifacts
+end_time: 1734024383278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29abce92bfca48468fdc6bd347de7aa0
+run_name: serious-gnat-796
+run_uuid: 29abce92bfca48468fdc6bd347de7aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734024381317
+status: 3
+tags: []
+user_id: mle-user

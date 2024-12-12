@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2/mlflow_server/mlruns/0/ee7c60d0034149b4a26ee36d8954998d/artifacts
+end_time: 1734024498830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee7c60d0034149b4a26ee36d8954998d
+run_name: victorious-ray-180
+run_uuid: ee7c60d0034149b4a26ee36d8954998d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734024497053
+status: 3
+tags: []
+user_id: mle-user

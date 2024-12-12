@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2/mlflow_server/mlruns/0/070e2e659eef49398a38170bebe22b87/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 070e2e659eef49398a38170bebe22b87
+run_name: polite-ant-116
+run_uuid: 070e2e659eef49398a38170bebe22b87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734023106598
+status: 1
+tags: []
+user_id: mle-user
